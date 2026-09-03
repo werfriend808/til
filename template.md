@@ -1,14 +1,14 @@
-# 제목
+# Title
 
-**날짜:** YYYY-MM-DD
-**분류:**
+**Date:** YYYY-MM-DD
+**Category:**
 
-## 오늘 배운 것
-
-
-## 왜 중요한가 / 어떻게 쓸 것인가
+## What I learned
 
 
-## 참고 링크
+## Why it matters / how I'll use it
+
+
+## References
 
 -

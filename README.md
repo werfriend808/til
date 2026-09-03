@@ -1,9 +1,9 @@
 # TIL (Today I Learned)
 
-작든 크든, 배운 것이 있을 때마다 기록하는 공간입니다.
+A place to log things I learn, big or small.
 
-## 작성 규칙
+## Conventions
 
-- 파일명: `카테고리/YYYY-MM-DD-주제.md` (예: `git/2026-09-03-rebase-vs-merge.md`)
-- 새 글을 쓸 때는 `template.md`를 복사해서 시작하세요.
-- 완벽하게 정리하지 않아도 됩니다. "나중의 나"가 검색해서 찾을 수 있는 수준이면 충분합니다.
+- File name: `category/YYYY-MM-DD-topic.md` (e.g. `git/2026-09-03-rebase-vs-merge.md`)
+- Copy `template.md` to start a new entry.
+- Doesn't need to be polished — good enough for future-me to search and find later.
